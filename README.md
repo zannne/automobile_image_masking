@@ -1,1 +1,3 @@
 # automobile_image_masking
+
+对车外视频数据中的人脸及车牌信息进行模糊化处理
