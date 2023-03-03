@@ -1,1 +1,0 @@
-# automobile_image_masking

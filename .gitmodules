@@ -1,0 +1,6 @@
+[submodule "YOLOv5-LPRNet-Licence-Recognition"]
+	path = licence
+	url = https://github.com/zannne/YOLOv5-LPRNet-Licence-Recognition.git
+[submodule "Ultra-Light-Fast-Generic-Face-Detector-1MB"]
+	path = face
+	url = https://github.com/zannne/Ultra-Light-Fast-Generic-Face-Detector-1MB.git
