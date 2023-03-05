@@ -1,6 +1,3 @@
-[submodule "third_part/Ultra-Light-Fast-Generic-Face-Detector-1MB"]
-	path = third_part/face
-	url = https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB.git
-[submodule "third_part/YOLOv5-LPRNet-Licence-Recognition"]
-	path = third_part/licence
+[submodule "YOLOv5-LPRNet-Licence-Recognition"]
+	path = licence
 	url = https://github.com/HuKai97/YOLOv5-LPRNet-Licence-Recognition.git
